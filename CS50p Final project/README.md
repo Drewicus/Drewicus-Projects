@@ -22,7 +22,8 @@
   Option 5: Exit
   - Exits the application
 
-  ### To use this program download files and run 'pip install -r requirements.txt' in the IDE terminal This will install all required libraries to run the program.
+  ### To use this program download files and run 
+  -'pip install -r requirements.txt' in the IDE terminal This will install all required libraries to run the program.
    - You may need to create an env, this can be done by entering 'sklearn-env\Scripts\activate' after installing all libraries
  
 
