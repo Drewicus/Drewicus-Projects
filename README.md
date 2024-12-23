@@ -25,11 +25,13 @@
   ## Self-intro/story: (can skip)
   <details>
     <summary>Click to expand</summary>
+    
 This project was inspired by my constant battle with my wife to decide what to eat for dinner. We're both indecisive.
 The hope was that this would hopefully address and help fix any issues we ran into on the daily breakfast/lunch or dinner time ( even snacks).
 Orginally I simply started with a bunch simple user input questions, I was going to make a list and use A LOT of conditionals to try find something to suggest from a very large data set I was going to create.
 I started with the input as mentioned, thinking about the main compenents required to make a good suggestions for what to eat.
 First; What time, Second; cuisine, Third; healthy or guilty, fourth; eat in or eat out (Which i still feel doesnt have much weight to it).
+
 
 After that, I spent a long time trying to validate each, and decided to make a class based off a real-life information sheet of sorts where all the collected information would be.
 That proved difficult as I seemingly didnt have a good grasp on classes. But after much review of the lectures and reading up on classes I got it to a functional state.
